@@ -18,4 +18,4 @@ Then, fire up Design Spark! If this is your first time running Design Spark, you
 
 Then click the 'Folder Enebled' radio button.
 
-Now when you open the .sch and .brd files, you can modify to your hearts delight!
+Now when you open the .sch and .pcb files, you can modify to your hearts delight!
