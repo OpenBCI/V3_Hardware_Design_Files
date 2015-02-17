@@ -1,7 +1,7 @@
 # V3_Hardware_Design_Files
 Contains files created with Design Spark PCB Capture Software
 
-
+# Installation
 Design Spark is a free PCB design software available for download here
 http://www.rs-online.com/designspark/electronics/eng/page/designspark-pcb-home-page
 
@@ -19,3 +19,7 @@ Then, fire up Design Spark! If this is your first time running Design Spark, you
 Then click the 'Folder Enebled' radio button.
 
 Now when you open the .sch and .pcb files, you can modify to your hearts delight!
+
+# License Information
+
+All contents of this repository are released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
