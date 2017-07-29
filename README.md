@@ -20,6 +20,17 @@ Then click the 'Folder Enebled' radio button.
 
 Now when you open the .sch and .pcb files, you can modify to your hearts delight!
 
+# Gerber Files
+
+* gerber files can be found for the 32bit, Daisy, and dongle boards in their respective subdirectories
+* file extensions of the gerber files were changed to those compatible with many board houses (note the file extensions vary from board house to board house)
+
+# Bill of Materials
+
+* combined bill of materials for 32bit, Daisy, and dongle boards is in the the "BOM_combined_x_July2017.ods" spreadsheet (open document format)
+* for many (but not all) of the parts a digikey product ID & estimated price can be found
+* please note these part numbers or costs may not be accurate 
+
 # License Information
 
 All contents of this repository are released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
