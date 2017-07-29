@@ -1,0 +1,282 @@
+Plot Report
+-----------
+
+Report Written:     Wednesday, July 19, 2017
+Design Path:        \\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\OpenBCI Daisy.pcb
+Design Title:       
+Created:            7/30/2013 7:43:11 PM
+Last Saved:         2/16/2015 3:33:08 PM
+Editing Time:       86153 min
+Units:              thou (precision 0)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.4 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 2.4 absolute in inches.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\OpenBCI Daisy.mop"
+
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D11    Round 1.00
+    D12    Round 3.00
+    D14    Round 10.00
+    D106   Round 8.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 5.00
+    D14    Round 10.00
+    D16    Rectangle 24.00 X 24.00  Rotation 90
+    D17    Rectangle 24.00 X 24.00
+    D28    Square 60.00
+    D29    Round 32.00
+    D107   Rectangle 11.81 X 47.24
+    D108   Rectangle 11.81 X 47.24  Rotation 90
+    D109   Square 63.00
+    D110   Rectangle 39.40 X 43.30
+    D111   Rectangle 16.00 X 35.00
+    D112   Square 60.00  Rotation 45
+    D113   Round 20.00
+    D114   Round 40.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Documentation.gbr
+
+    Layers:
+    -----------------
+    Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D76    Rectangle 30.00 X 30.00  Rotation 90
+    D77    Rectangle 30.00 X 30.00
+    D90    Square 66.00
+    D115   Rectangle 17.81 X 53.24
+    D116   Rectangle 17.81 X 53.24  Rotation 90
+    D117   Square 69.00
+    D118   Rectangle 45.40 X 49.30
+    D119   Rectangle 22.00 X 41.00
+    D120   Square 66.00  Rotation 45
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Top Paste Mask.gbr
+
+    Layers:
+    ------------------
+    Top Paste Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D121   Rectangle 7.81 X 43.24
+    D122   Rectangle 7.81 X 43.24  Rotation 90
+    D123   Rectangle 20.00 X 20.00
+    D124   Square 59.00
+    D125   Rectangle 20.00 X 20.00  Rotation 90
+    D126   Rectangle 35.40 X 39.30
+    D127   Rectangle 12.00 X 31.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Layer 2 Copper.gbr
+
+    Layers:
+    ------------------
+    Layer 2 Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------
+    D10    Round 5.00
+    D28    Square 60.00
+    D29    Round 32.00
+    D74    Round 15.00
+    D112   Square 60.00  Rotation 45
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Layer 3 Copper.gbr
+
+    Layers:
+    ------------------
+    Layer 3 Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------
+    D10    Round 5.00
+    D28    Square 60.00
+    D29    Round 32.00
+    D74    Round 15.00
+    D112   Square 60.00  Rotation 45
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 5.00
+    D14    Round 10.00
+    D16    Rectangle 24.00 X 24.00  Rotation 90
+    D17    Rectangle 24.00 X 24.00
+    D28    Square 60.00
+    D29    Round 32.00
+    D74    Round 15.00
+    D106   Round 8.00
+    D112   Square 60.00  Rotation 45
+    D113   Round 20.00
+    D128   Rectangle 18.00 X 46.00  Rotation 90
+    D129   Rectangle 10.00 X 27.56
+    D130   Round 30.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D12    Round 3.00
+    D13    Round 6.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D76    Rectangle 30.00 X 30.00  Rotation 90
+    D77    Rectangle 30.00 X 30.00
+    D90    Square 66.00
+    D120   Square 66.00  Rotation 45
+    D131   Rectangle 24.00 X 52.00  Rotation 90
+    D132   Rectangle 16.00 X 33.56
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Bottom Paste Mask.gbr
+
+    Layers:
+    ---------------------
+    Bottom Paste Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D123   Rectangle 20.00 X 20.00
+    D125   Rectangle 20.00 X 20.00  Rotation 90
+    D133   Rectangle 14.00 X 42.00  Rotation 90
+    D134   Rectangle 6.00 X 23.56
+
+NC Drill Output
+===============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Drill Data - [Through Hole].drl
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+    Plated Board Outlines
+    Unplated Board Outlines
+
+    Tool  Size       Count   ID  (Plated/Unplated)
+    -------------------------------------------------------
+    T001  00.0160 in 38    E
+    T002  00.0250 in 1
+    T003  00.0350 in 36    B    /C
+    -------------------------------------------------------
+    Total            75
+    -------------------------------------------------------
+
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Daisy Designs\Plots\OpenBCI Daisy - Board Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+
+End Of Report.

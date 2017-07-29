@@ -1,0 +1,373 @@
+Plot Report
+-----------
+
+Report Written:     Wednesday, July 19, 2017
+Design Path:        \\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\OpenBCI 32bit.pcb
+Design Title:       
+Created:            7/30/2013 7:43:11 PM
+Last Saved:         7/18/2017 3:52:08 PM
+Editing Time:       117694 min
+Units:              thou (precision 0)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.4 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 2.4 absolute in inches.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\OpenBCI 32bit.mop"
+
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D11    Round 1.00
+    D12    Round 3.00
+    D13    Round 6.00
+    D14    Round 10.00
+    D106   Round 8.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 5.00
+    D14    Round 10.00
+    D16    Rectangle 24.00 X 24.00  Rotation 90
+    D17    Rectangle 24.00 X 24.00
+    D28    Square 60.00
+    D29    Round 32.00
+    D74    Round 15.00
+    D107   Rectangle 11.81 X 47.24
+    D108   Rectangle 11.81 X 47.24  Rotation 90
+    D109   Square 63.00
+    D110   Rectangle 39.40 X 43.30
+    D111   Rectangle 16.00 X 35.00
+    D112   Square 60.00  Rotation 45
+    D113   Round 20.00
+    D114   Round 40.00
+    D128   Rectangle 18.00 X 46.00  Rotation 90
+    D130   Round 30.00
+    D135   Rectangle 17.00 X 72.00  Rotation 90
+    D136   Rectangle 39.40 X 43.30  Rotation 90
+    D137   Rectangle 55.00 X 71.00
+    D138   Rectangle 26.00 X 42.00
+    D139   Rectangle 12.00 X 20.00  Rotation 90
+    D140   Rectangle 12.00 X 20.00
+    D141   Round 36.00
+    D142   Rectangle 39.37 X 42.91
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Documentation.gbr
+
+    Layers:
+    -----------------
+    Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 191.00
+    D11    Rectangle 17.81 X 53.24
+    D12    Rectangle 17.81 X 53.24  Rotation 90
+    D13    Rectangle 30.00 X 30.00
+    D14    Square 69.00
+    D15    Rectangle 30.00 X 30.00  Rotation 90
+    D16    Rectangle 23.00 X 78.00  Rotation 90
+    D17    Rectangle 45.40 X 49.30
+    D18    Rectangle 45.40 X 49.30  Rotation 90
+    D19    Rectangle 61.00 X 77.00
+    D70    Rectangle 32.00 X 48.00
+    D71    Square 66.00
+    D20    Rectangle 18.00 X 26.00  Rotation 90
+    D21    Rectangle 18.00 X 26.00
+    D22    Rectangle 22.00 X 41.00
+    D23    Square 66.00  Rotation 45
+    D24    Rectangle 24.00 X 52.00  Rotation 90
+    D25    Round 42.00
+    D26    Rectangle 45.37 X 48.91
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Top Paste Mask.gbr
+
+    Layers:
+    ------------------
+    Top Paste Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D27    Rectangle 8.81 X 44.24
+    D28    Rectangle 8.81 X 44.24  Rotation 90
+    D29    Rectangle 21.00 X 21.00
+    D72    Square 60.00
+    D73    Rectangle 21.00 X 21.00  Rotation 90
+    D74    Rectangle 14.00 X 69.00  Rotation 90
+    D75    Rectangle 36.40 X 40.30
+    D76    Rectangle 36.40 X 40.30  Rotation 90
+    D77    Rectangle 52.00 X 68.00
+    D78    Rectangle 23.00 X 39.00
+    D79    Rectangle 9.00 X 17.00  Rotation 90
+    D80    Rectangle 9.00 X 17.00
+    D81    Rectangle 13.00 X 32.00
+    D82    Rectangle 15.00 X 43.00  Rotation 90
+    D83    Rectangle 36.37 X 39.91
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Layer 2 Copper.gbr
+
+    Layers:
+    ------------------
+    Layer 2 Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------
+    D72    Square 60.00
+    D84    Round 5.00
+    D85    Round 15.00
+    D86    Square 60.00  Rotation 45
+    D87    Round 36.00
+    D88    Round 32.00
+    D89    Round 10.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Layer 3 Copper.gbr
+
+    Layers:
+    ------------------
+    Layer 3 Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------
+    D72    Square 60.00
+    D84    Round 5.00
+    D85    Round 15.00
+    D86    Square 60.00  Rotation 45
+    D87    Round 36.00
+    D88    Round 32.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D72    Square 60.00
+    D84    Round 5.00
+    D85    Round 15.00
+    D86    Square 60.00  Rotation 45
+    D87    Round 36.00
+    D88    Round 32.00
+    D89    Round 10.00
+    D90    Rectangle 24.00 X 24.00  Rotation 90
+    D91    Rectangle 23.62 X 47.24  Rotation 90
+    D92    Rectangle 24.00 X 24.00
+    D93    Rectangle 39.40 X 43.30
+    D94    Rectangle 21.65 X 47.24
+    D95    Rectangle 39.40 X 43.30  Rotation 90
+    D96    Rectangle 23.62 X 47.24
+    D97    Rectangle 18.00 X 46.00  Rotation 90
+    D98    Rectangle 39.37 X 42.91  Rotation 90
+    D99    Square 63.00  Rotation 45
+    D100   Rectangle 10.00 X 27.56
+    D101   Rectangle 32.00 X 132.00  Rotation 90
+    D102   Rectangle 27.00 X 63.00  Rotation 135
+    D103   Rectangle 47.00 X 87.00  Rotation 135
+    D104   Rectangle 55.00 X 63.00  Rotation 45
+    D105   Rectangle 47.00 X 63.00  Rotation 135
+    D106   Rectangle 59.00 X 134.00
+    D107   Rectangle 39.00 X 138.00
+    D108   Rectangle 28.00 X 59.00  Rotation 90
+    D109   Rectangle 32.00 X 39.00
+    D110   Rectangle 39.37 X 42.91
+    D111   Rectangle 55.00 X 55.00  Rotation 135
+    D112   Round 20.00
+    D113   Round 8.00
+    D114   Round 40.00
+    D115   Round 30.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D84    Round 5.00
+    D113   Round 8.00
+    D116   Round 3.00
+    D117   Round 6.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D10    Round 191.00
+    D13    Rectangle 30.00 X 30.00
+    D15    Rectangle 30.00 X 30.00  Rotation 90
+    D17    Rectangle 45.40 X 49.30
+    D18    Rectangle 45.40 X 49.30  Rotation 90
+    D71    Square 66.00
+    D23    Square 66.00  Rotation 45
+    D24    Rectangle 24.00 X 52.00  Rotation 90
+    D25    Round 42.00
+    D26    Rectangle 45.37 X 48.91
+    D118   Rectangle 29.62 X 53.24  Rotation 90
+    D119   Rectangle 27.65 X 53.24
+    D120   Rectangle 29.62 X 53.24
+    D121   Rectangle 45.37 X 48.91  Rotation 90
+    D122   Square 69.00  Rotation 45
+    D123   Rectangle 16.00 X 33.56
+    D124   Rectangle 38.00 X 138.00  Rotation 90
+    D125   Rectangle 33.00 X 69.00  Rotation 135
+    D126   Rectangle 53.00 X 93.00  Rotation 135
+    D127   Rectangle 61.00 X 69.00  Rotation 45
+    D128   Rectangle 53.00 X 69.00  Rotation 135
+    D129   Rectangle 65.00 X 140.00
+    D130   Rectangle 45.00 X 144.00
+    D131   Rectangle 34.00 X 65.00  Rotation 90
+    D132   Rectangle 38.00 X 45.00
+    D133   Rectangle 61.00 X 61.00  Rotation 135
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Bottom Paste Mask.gbr
+
+    Layers:
+    ---------------------
+    Bottom Paste Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D29    Rectangle 21.00 X 21.00
+    D73    Rectangle 21.00 X 21.00  Rotation 90
+    D75    Rectangle 36.40 X 40.30
+    D76    Rectangle 36.40 X 40.30  Rotation 90
+    D82    Rectangle 15.00 X 43.00  Rotation 90
+    D83    Rectangle 36.37 X 39.91
+    D86    Square 60.00  Rotation 45
+    D134   Rectangle 20.62 X 44.24  Rotation 90
+    D135   Rectangle 18.65 X 44.24
+    D136   Rectangle 20.62 X 44.24
+    D137   Rectangle 36.37 X 39.91  Rotation 90
+    D138   Rectangle 7.00 X 24.56
+    D139   Rectangle 29.00 X 129.00  Rotation 90
+    D140   Rectangle 24.00 X 60.00  Rotation 135
+    D141   Rectangle 44.00 X 84.00  Rotation 135
+    D142   Rectangle 52.00 X 60.00  Rotation 45
+    D143   Rectangle 44.00 X 60.00  Rotation 135
+    D144   Rectangle 56.00 X 131.00
+    D145   Rectangle 36.00 X 135.00
+    D146   Rectangle 25.00 X 56.00  Rotation 90
+    D147   Rectangle 29.00 X 36.00
+    D148   Rectangle 52.00 X 52.00  Rotation 135
+
+NC Drill Output
+===============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Drill Data - [Through Hole].drl
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+
+    Tool  Size       Count   ID  (Plated/Unplated)
+    -------------------------------------------------------
+    T001  00.0160 in 105   E
+    T002  00.0350 in 46    B    /C
+    T003  00.0360 in 2     /D
+    T004  00.1850 in 4     /A
+    -------------------------------------------------------
+    Total            157
+    -------------------------------------------------------
+
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI 32bit Designs\Plots\OpenBCI 32bit - Board Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D84    Round 5.00
+
+End Of Report.
