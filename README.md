@@ -36,7 +36,7 @@ Now when you open the .sch and .pcb files, you can modify to your hearts delight
     * resistors are thin film
     * capacitors are MLCC X7R
     * battery connector is standard JST type two position (with polarity key at top)
-    * SD card holder used is (ST-TF-003A](https://octopart.com/st-tf-003a-suntech-29424852)
+    * SD card holder used is [ST-TF-003A](https://octopart.com/st-tf-003a-suntech-29424852)
 * combined bill of materials for 32bit, Daisy, and dongle boards is in the the "BOM_combined.ods" spreadsheet (open document format)
 * for many (but not all) of the parts a digikey product ID & estimated price can be found
 * please note these part numbers or costs may not be accurate
