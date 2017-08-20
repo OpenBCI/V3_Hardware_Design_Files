@@ -12,11 +12,11 @@ In order to use the design files to their fullest extent, you must add the files
 
     Users\Public\Documents\DesignSpark PCB 7.0\Library\User
 
-Then, fire up Design Spark! If this is your first time running Design Spark, you will need to enable the Library folder first thing. When Design Spark opens, open the Libraries pane by clicking File, Libraries (Cntrl+L). When it opens, click on the Folders tab and select 
+Then, fire up Design Spark! If this is your first time running Design Spark, you will need to enable the Library folder first thing. When Design Spark opens, open the Libraries pane by clicking File, Libraries (Cntrl+L). When it opens, click on the Folders tab and select
 
-    C:\Users\Public\Documents\DesignSpark PCB 7.0\Library 
+    C:\Users\Public\Documents\DesignSpark PCB 7.0\Library
 
-Then click the 'Folder Enebled' radio button.
+Then click the 'Folder Enabled' radio button.
 
 Now when you open the .sch and .pcb files, you can modify to your hearts delight!
 
@@ -27,9 +27,9 @@ Now when you open the .sch and .pcb files, you can modify to your hearts delight
 
 # Bill of Materials
 
-* combined bill of materials for 32bit, Daisy, and dongle boards is in the the "BOM_combined_x_July2017.ods" spreadsheet (open document format)
+* combined bill of materials for 32bit, Daisy, and dongle boards is in the the "BOM_combined.ods" spreadsheet (open document format)
 * for many (but not all) of the parts a digikey product ID & estimated price can be found
-* please note these part numbers or costs may not be accurate 
+* please note these part numbers or costs may not be accurate
 
 # License Information
 
