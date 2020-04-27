@@ -1,0 +1,256 @@
+Plot Report
+-----------
+
+Report Written:     Wednesday, July 19, 2017
+Design Path:        \\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\OpenBCI Dongle.pcb
+Design Title:       
+Created:            6/17/2014 7:28:35 AM
+Last Saved:         2/16/2015 3:35:01 PM
+Editing Time:       3378 min
+Units:              thou (precision 0)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.4 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 2.4 absolute in inches.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\OpenBCI Dongle.mop"
+
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\Plots\OpenBCI Dongle - Top Documentation.gbr
+
+    Layers:
+    ---------------------
+    Top Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\Plots\OpenBCI Dongle - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D11    Round 1.00
+    D12    Round 3.00
+    D13    Round 6.00
+    D14    Round 10.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\Plots\OpenBCI Dongle - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D10    Round 5.00
+    D14    Round 10.00
+    D15    Rectangle 32.00 X 132.00
+    D16    Rectangle 24.00 X 24.00  Rotation 90
+    D17    Rectangle 24.00 X 24.00
+    D18    Rectangle 39.37 X 42.91  Rotation 90
+    D19    Rectangle 27.56 X 59.06
+    D70    Round 35.43
+    D71    Rectangle 31.50 X 39.37  Rotation 90
+    D20    Rectangle 63.00 X 300.00  Rotation 90
+    D21    Rectangle 63.00 X 250.00  Rotation 90
+    D22    Rectangle 12.00 X 32.00
+    D23    Rectangle 12.00 X 32.00  Rotation 90
+    D24    Square 100.00
+    D25    Rectangle 60.00 X 128.00
+    D26    Rectangle 20.00 X 22.00  Rotation 90
+    D27    Rectangle 28.00 X 35.00
+    D28    Square 60.00
+    D29    Round 32.00
+    D72    Round 25.00
+    D73    Round 50.00
+    D74    Round 15.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\Plots\OpenBCI Dongle - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D75    Rectangle 38.00 X 138.00
+    D76    Rectangle 30.00 X 30.00  Rotation 90
+    D77    Rectangle 30.00 X 30.00
+    D78    Rectangle 45.37 X 48.91  Rotation 90
+    D79    Rectangle 33.56 X 65.06
+    D80    Round 41.43
+    D81    Rectangle 37.50 X 45.37  Rotation 90
+    D82    Rectangle 69.00 X 306.00  Rotation 90
+    D83    Rectangle 69.00 X 256.00  Rotation 90
+    D84    Rectangle 18.00 X 38.00
+    D85    Rectangle 18.00 X 38.00  Rotation 90
+    D86    Square 106.00
+    D87    Rectangle 66.00 X 134.00
+    D88    Rectangle 26.00 X 28.00  Rotation 90
+    D89    Rectangle 34.00 X 41.00
+    D90    Square 66.00
+    D91    Round 38.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\Plots\OpenBCI Dongle - Top Paste Mask.gbr
+
+    Layers:
+    ------------------
+    Top Paste Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D92    Rectangle 26.00 X 126.00
+    D93    Rectangle 18.00 X 18.00  Rotation 90
+    D94    Rectangle 18.00 X 18.00
+    D95    Rectangle 33.37 X 36.91  Rotation 90
+    D96    Rectangle 21.56 X 53.06
+    D97    Rectangle 25.50 X 33.37  Rotation 90
+    D98    Rectangle 57.00 X 294.00  Rotation 90
+    D99    Rectangle 57.00 X 244.00  Rotation 90
+    D100   Rectangle 6.00 X 26.00
+    D101   Rectangle 6.00 X 26.00  Rotation 90
+    D102   Square 94.00
+    D103   Rectangle 54.00 X 122.00
+    D104   Rectangle 14.00 X 16.00  Rotation 90
+    D105   Rectangle 22.00 X 29.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\Plots\OpenBCI Dongle - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+    D14    Round 10.00
+    D70    Round 35.43
+    D28    Square 60.00
+    D29    Round 32.00
+    D72    Round 25.00
+    D74    Round 15.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\Plots\OpenBCI Dongle - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 1.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\Plots\OpenBCI Dongle - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D80    Round 41.43
+    D90    Square 66.00
+    D91    Round 38.00
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\Plots\OpenBCI Dongle - Bottom Paste Mask.gbr
+
+    Layers:
+    ---------------------
+    Bottom Paste Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+
+NC Drill Output
+===============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\Plots\OpenBCI Dongle - Drill Data - [Through Hole].drl
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+    Plated Board Outlines
+    Unplated Board Outlines
+
+    Tool  Size       Count   ID  (Plated/Unplated)
+    -------------------------------------------------------
+    T001  00.0160 in 30    E
+    T002  00.0250 in 1
+    T003  00.0350 in 14    B    /C
+    -------------------------------------------------------
+    Total            45
+    -------------------------------------------------------
+
+
+Gerber Output
+=============
+
+\\VBOXSVR\designspark_files\V3_Hardware_Design_Files\OpenBCI Dongle Designs\Plots\OpenBCI Dongle - Board Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+
+End Of Report.
