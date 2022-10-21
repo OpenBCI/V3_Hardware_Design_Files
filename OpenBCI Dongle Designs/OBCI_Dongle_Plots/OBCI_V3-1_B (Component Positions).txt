@@ -1,0 +1,45 @@
+Component Positions Report
+--------------------------
+
+Report File:    C:\Users\murf\Documents\SPARK\ADS_EEG\ADS_V3_BT\OBCI_B\OBCI_V3_B (Component Positions).txt
+Report Written: Thursday, December 10, 2015
+Design Path:    C:\Users\murf\Documents\SPARK\ADS_EEG\ADS_V3_BT\OBCI_B\OBCI_V3_B.pcb
+Design Title:
+Created:        6/17/2014 9:28:35 AM
+Last Saved:     12/10/2015 11:56:17 AM
+Editing Time:   3459 min
+Units:          thou (precision 0)
+
+Name      Component                     Side                    Centre X    Centre Y  Rotation
+----------------------------------------------------------------------------------------------
+C1        C                             Top                          559         345    180.00
+C2        C                             Top                          650         576     90.00
+C3        C                             Top                          650         411     90.00
+C5        C                             Top                         1465          69     90.00
+C6        C                             Top                         1175         224    270.00
+C4        C 10uF                        Top                         1545         865    270.00
+J1        CONN-5                        Top                          785          60    180.00
+J2        CONN_7                        Top                          885         865    180.00
+D1        ESD_VARISTOR                  Top                          650         631     90.00
+D2        ESD_VARISTOR                  Top                          650         360     90.00
+U1        FT231X                        Top                          925         500    270.00
+L1        MPZ1005S300C                  Top                          560         645    180.00
+L2        MPZ1005S300C                  Top                          610         255    180.00
+R1        R 0402                        Top                          651         519    270.00
+R2        R 0402                        Top                          651         459    270.00
+R3        R 0402                        Top                          901         669    270.00
+R4        R 0402                        Top                          996         354    270.00
+R5        R 0402                        Top                         1331         304     90.00
+R6        R 0402                        Top                         1335         576     90.00
+R7        R 0402                        Top                         1336         534    270.00
+R8        R 0402                        Top                         1720         836     90.00
+R9        R 0402                        Top                         1760         881     90.00
+BLE1      RFD22301                      Top                         1705         464     90.00
+D4        SMT_LED                       Top                         1015         670     90.00
+D5        SMT_LED                       Top                         1015         295     90.00
+D6        SMT_LED                       Top                         1305         355     90.00
+S1        SMT_SPDT_Switch               Top                         1225         107      0.00
+F1        SM_FUSE                       Top                          760         245      0.00
+D3        TVS_D                         Top                          846         340    180.00
+CONN1     USB_PCB                       Top                          225         463     90.00
+----------------------------------------------------------------------------------------------
