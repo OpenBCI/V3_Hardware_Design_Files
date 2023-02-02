@@ -1,0 +1,264 @@
+Ref Name,Qty,Component,Value,Package,Manufacturer,MPN,Description
+J2,1,2WP,,DSC,,,2 way Pin Header
+J4,1,4WP,,DSC,,,4 way Pin Header
+J3,1,4WP,,DSC,,,4 way Pin Header
+PL1,1,26WDP,,DSC,,,Dual 13w Pin Header
+C29,1,0603YC104KATDA,10uF,SM0603,AVX,,"Capacitor, Surface Mount Multi-Layer Ceramic"
+C1,1,0603YC104KATDA,10uF,SM0603,AVX,,"Capacitor, Surface Mount Multi-Layer Ceramic"
+C8,1,0603YC104KATDA,10uF,SM0603,AVX,,"Capacitor, Surface Mount Multi-Layer Ceramic"
+C25,1,0603YC104KATDA,10uF,SM0603,AVX,,"Capacitor, Surface Mount Multi-Layer Ceramic"
+C31,1,06033G104ZATDA,10uF,SM0603,AVX,,"Capacitor, Surface Mount Multi-Layer Ceramic"
+C33,1,06033G104ZATDA,10uF,SM0603,AVX,,"Capacitor, Surface Mount Multi-Layer Ceramic"
+X1,1,ABRACON_XTAL,8MHz,SM,,,CRYSTAL
+U6,1,ADS1299,,TQFP-64,,,
+A1,1,ANSI D,,MISC,,,
+B1,1,BATT,,SM,,,JST BATTERY CONNECTOR
+C5,1,C,.1uF,EIA_0402,,,Capacitor
+C24,1,C,.1uF,EIA_0402,,,Capacitor
+C12,1,C,.1uF,EIA_0402,,,Capacitor
+C13,1,C,.1uF,EIA_0402,,,Capacitor
+C28,1,C,.1uF,EIA_0402,,,Capacitor
+C10,1,C,.1uF,EIA_0402,,,Capacitor
+C15,1,C,0.1uF,EIA_0402,,,Capacitor
+C30,1,C,0.01uF,EIA_0402,,,Capacitor
+C16,1,C,1nF,EIA_0402,,,Capacitor
+C19,1,C,1uF,EIA_0402,,,Capacitor
+C21,1,C,1uF,EIA_0402,,,Capacitor
+C18,1,C,1uF,EIA_0402,,,Capacitor
+C6,1,C,1uF,EIA_0402,,,Capacitor
+C7,1,C,1uF,EIA_0402,,,Capacitor
+C22,1,C,1uF,EIA_0402,,,Capacitor
+C14,1,C,1uF,EIA_0402,,,Capacitor
+C17,1,C,1uF,EIA_0402,,,Capacitor
+C27,1,C,1uF,EIA_0402,,,Capacitor
+C32,1,C,2.2uF,EIA_0402,,,Capacitor
+C36,1,C,2.2uF,EIA_0402,,,Capacitor
+C40,1,C,2.2uF,EIA_0402,,,Capacitor
+C39,1,C,2.2uF,EIA_0402,,,Capacitor
+C35,1,C,2.2uF,EIA_0402,,,Capacitor
+C38,1,C,2.2uF,EIA_0402,,,Capacitor
+C23,1,C,18pF,402,,,Capacitor
+C20,1,C,18pF,402,,,Capacitor
+C37,1,C 10uF,10uF,C0603,,,Capacitor
+C2,1,C 100uF,100uF,1206,,,Capacitor
+C4,1,C 100uF,100uF,1206,,,Capacitor
+R4,1,CAY16-F4 R-ARRAY,2.2K,SM,,,
+R6,1,CAY16-F4 R-ARRAY,2.2K,SM,,,
+R2,1,CAY16-F4 R-ARRAY,2.2K,SM,,,
+R3,1,CAY16-F4 R-ARRAY,2.2K,SM,,,
+R1,1,CAY16-F4 R-ARRAY,2.2K,SM,,,
+C9,1,CKCL44X7R1H102M085AA,,SMT,,,4 CAP ARRAY
+C11,1,CKCL44X7R1H102M085AA,,SMT,,,4 CAP ARRAY
+C26,1,CKCL44X7R1H102M085AA,,SMT,,,4 CAP ARRAY
+C34,1,CKCL44X7R1H102M085AA,,SMT,,,4 CAP ARRAY
+C3,1,CKCL44X7R1H102M085AA,,SMT,,,4 CAP ARRAY
+SW2,1,CUS-3B SP3T SLIDE SWITCH,,SM,,,CUS-3B SP3T SLIDE SWITCH
+D8,1,DI0603,,SM,,,
+D9,1,DI0603,,SM,,,
+D1,1,DI0603,BLUE LED,SM,,,
+REF5,1,GND,,,,,Power
+REF6,1,GND,,,,,Power
+REF7,1,GND,,,,,Power
+REF48,1,GND,,,,,Power
+REF73,1,GND,,,,,Power
+REF84,1,GND,,,,,Power
+REF79,1,GND,,,,,Power
+REF80,1,GND,,,,,Power
+REF81,1,GND,,,,,Power
+REF94,1,GND,,,,,Power
+REF162,1,GND,,,,,Power
+REF51,1,GND,,,,,Power
+REF85,1,GND,,,,,Power
+REF102,1,GND,,,,,Power
+REF103,1,GND,,,,,Power
+REF104,1,GND,,,,,Power
+REF105,1,GND,,,,,Power
+REF107,1,GND,,,,,Power
+REF113,1,GND,,,,,Power
+REF114,1,GND,,,,,Power
+REF117,1,GND,,,,,Power
+REF148,1,GND,,,,,Power
+REF149,1,GND,,,,,Power
+U1,1,LIS3DHTR ACCELEROMETER,,LGA,,,ST accelerometer LIS3DHTR
+U3,1,LM2664,,SOT-23-6,,,
+U5,1,LP5907,,SM,,,
+U7,1,PIC32MX250F128B,,SSOP,,,ChipKIT PIC32
+J1,1,PINHEAD-8,,SIP,,,"0.1"" pitch header row"
+D6,1,Quad TVS TPD4E1B06,,SM,,,TI QUAD TVS
+D5,1,Quad TVS TPD4E1B06,,SM,,,TI QUAD TVS
+D3,1,Quad TVS TPD4E1B06,,SM,,,TI QUAD TVS
+D4,1,Quad TVS TPD4E1B06,,SM,,,TI QUAD TVS
+D2,1,Quad TVS TPD4E1B06,,SM,,,TI QUAD TVS
+D7,1,Quad TVS TPD4E1B06,,SM,,,TI QUAD TVS
+R8,1,R,1K,402,,,Resistor
+R5,1,R,1M,402,,,Resistor
+R10,1,R,220K,402,,,Resistor
+R11,1,R,330K,402,,,Resistor
+R7,1,R,470K,402,,,Resistor
+R9,1,R,470K,402,,,Resistor
+BLE1,1,RFD22301,,SM,,,BTLE Module
+CONN1,1,SEEEDmicroSD,,MISC,,,SEEED microSD card slot
+U2,1,SN74LVC1G32DCKR OR_GATE,,SM,,,
+SW3,1,SW_TACT,,PTS810 TACT SWITCH,,,
+SW1,1,SW_TACT,,PTS810 TACT SWITCH,,,
+U4,1,TLV700xx LDO REG,,SOT23-5,,,
+REF17,1,TO,,,,,Arrow R
+REF19,1,TO,,,,,Arrow R
+REF22,1,TO,,,,,Arrow R
+REF23,1,TO,,,,,Arrow R
+REF26,1,TO,,,,,Arrow R
+REF27,1,TO,,,,,Arrow R
+REF28,1,TO,,,,,Arrow R
+REF29,1,TO,,,,,Arrow R
+REF30,1,TO,,,,,Arrow R
+REF31,1,TO,,,,,Arrow R
+REF32,1,TO,,,,,Arrow R
+REF33,1,TO,,,,,Arrow R
+REF34,1,TO,,,,,Arrow R
+REF35,1,TO,,,,,Arrow R
+REF36,1,TO,,,,,Arrow R
+REF37,1,TO,,,,,Arrow R
+REF38,1,TO,,,,,Arrow R
+REF39,1,TO,,,,,Arrow R
+REF40,1,TO,,,,,Arrow R
+REF41,1,TO,,,,,Arrow R
+REF42,1,TO,,,,,Arrow R
+REF43,1,TO,,,,,Arrow R
+REF47,1,TO,,,,,Arrow R
+REF72,1,TO,,,,,Arrow R
+REF74,1,TO,,,,,Arrow R
+REF75,1,TO,,,,,Arrow R
+REF90,1,TO,,,,,Arrow R
+REF91,1,TO,,,,,Arrow R
+REF46,1,TO,,,,,Arrow R
+REF83,1,TO,,,,,Arrow R
+REF183,1,TO,,,,,Arrow R
+REF184,1,TO,,,,,Arrow R
+REF163,1,TO,,,,,Arrow R
+REF164,1,TO,,,,,Arrow R
+REF165,1,TO,,,,,Arrow R
+REF166,1,TO,,,,,Arrow R
+REF167,1,TO,,,,,Arrow R
+REF189,1,TO,,,,,Arrow R
+REF53,1,TO,,,,,Arrow R
+REF68,1,TO,,,,,Arrow R
+REF49,1,TO,,,,,Arrow R
+REF70,1,TO,,,,,Arrow R
+REF71,1,TO,,,,,Arrow R
+REF77,1,TO,,,,,Arrow R
+REF86,1,TO,,,,,Arrow R
+REF87,1,TO,,,,,Arrow R
+REF88,1,TO,,,,,Arrow R
+REF89,1,TO,,,,,Arrow R
+REF92,1,TO,,,,,Arrow R
+REF93,1,TO,,,,,Arrow R
+REF95,1,TO,,,,,Arrow R
+REF96,1,TO,,,,,Arrow R
+REF97,1,TO,,,,,Arrow R
+REF98,1,TO,,,,,Arrow R
+REF99,1,TO,,,,,Arrow R
+REF108,1,TO,,,,,Arrow R
+REF109,1,TO,,,,,Arrow R
+REF110,1,TO,,,,,Arrow R
+REF111,1,TO,,,,,Arrow R
+REF112,1,TO,,,,,Arrow R
+REF100,1,TO,,,,,Arrow R
+REF101,1,TO,,,,,Arrow R
+REF115,1,TO,,,,,Arrow R
+REF116,1,TO,,,,,Arrow R
+REF61,1,TO,,,,,Arrow R
+REF118,1,TO,,,,,Arrow R
+REF119,1,TO,,,,,Arrow R
+REF120,1,TO,,,,,Arrow R
+REF121,1,TO,,,,,Arrow R
+REF132,1,TO,,,,,Arrow R
+REF133,1,TO,,,,,Arrow R
+REF134,1,TO,,,,,Arrow R
+REF135,1,TO,,,,,Arrow R
+REF136,1,TO,,,,,Arrow R
+REF137,1,TO,,,,,Arrow R
+REF138,1,TO,,,,,Arrow R
+REF139,1,TO,,,,,Arrow R
+REF140,1,TO,,,,,Arrow R
+REF141,1,TO,,,,,Arrow R
+REF142,1,TO,,,,,Arrow R
+REF143,1,TO,,,,,Arrow R
+REF145,1,TO,,,,,Arrow R
+REF146,1,TO,,,,,Arrow R
+REF147,1,TO,,,,,Arrow R
+REF150,1,TO,,,,,Arrow R
+REF151,1,TO,,,,,Arrow R
+REF152,1,TO,,,,,Arrow R
+REF170,1,TO,,,,,Arrow R
+REF171,1,TO,,,,,Arrow R
+REF172,1,TO,,,,,Arrow R
+REF173,1,TO,,,,,Arrow R
+REF174,1,TO,,,,,Arrow R
+REF175,1,TO,,,,,Arrow R
+REF176,1,TO,,,,,Arrow R
+REF177,1,TO,,,,,Arrow R
+REF178,1,TO,,,,,Arrow R
+REF179,1,TO,,,,,Arrow R
+REF180,1,TO,,,,,Arrow R
+REF181,1,TO,,,,,Arrow R
+REF182,1,TO,,,,,Arrow R
+REF185,1,TO,,,,,Arrow R
+REF186,1,TO,,,,,Arrow R
+REF187,1,TO,,,,,Arrow R
+REF188,1,TO,,,,,Arrow R
+REF190,1,TO,,,,,Arrow R
+REF191,1,TO,,,,,Arrow R
+REF192,1,TO,,,,,Arrow R
+REF193,1,TO,,,,,Arrow R
+REF194,1,TO,,,,,Arrow R
+REF195,1,TO,,,,,Arrow R
+REF196,1,TO,,,,,Arrow R
+REF197,1,TO,,,,,Arrow R
+REF199,1,TO,,,,,Arrow R
+REF200,1,TO,,,,,Arrow R
+REF201,1,TO,,,,,Arrow R
+REF202,1,TO,,,,,Arrow R
+REF203,1,TO,,,,,Arrow R
+REF169,1,TO,,,,,Arrow R
+REF204,1,TO,,,,,Arrow R
+REF205,1,TO,,,,,Arrow R
+REF206,1,TO,,,,,Arrow R
+REF212,1,TO,,,,,Arrow R
+REF213,1,TO,,,,,Arrow R
+REF214,1,TO,,,,,Arrow R
+REF215,1,TO,,,,,Arrow R
+REF216,1,TO,,,,,Arrow R
+REF217,1,TO,,,,,Arrow R
+REF218,1,TO,,,,,Arrow R
+REF220,1,TO,,,,,Arrow R
+REF221,1,TO,,,,,Arrow R
+REF222,1,TO,,,,,Arrow R
+REF223,1,TO,,,,,Arrow R
+REF224,1,TO,,,,,Arrow R
+REF225,1,TO,,,,,Arrow R
+REF226,1,TO,,,,,Arrow R
+REF228,1,TO,,,,,Arrow R
+REF106,1,TO,,,,,Arrow R
+REF219,1,TO,,,,,Arrow R
+REF227,1,TO,,,,,Arrow R
+REF229,1,TO,,,,,Arrow R
+REF230,1,TO,,,,,Arrow R
+VR1,1,TPS72325,,SM,,,
+REF1,1,Vdd,,,,,Power
+REF14,1,Vdd,,,,,Power
+REF15,1,Vdd,,,,,Power
+REF16,1,Vdd,,,,,Power
+REF76,1,Vdd,,,,,Power
+REF2,1,Vdd,,,,,Power
+REF3,1,Vdd,,,,,Power
+REF9,1,Vdd,,,,,Power
+REF82,1,Vdd,,,,,Power
+REF58,1,Vdd,,,,,Power
+REF59,1,Vdd,,,,,Power
+REF60,1,Vdd,,,,,Power
+REF21,1,Vdd,,,,,Power
+REF24,1,Vdd,,,,,Power
+REF8,1,Vss,,,,,Power
+REF10,1,Vss,,,,,Power
+REF11,1,Vss,,,,,Power
+REF78,1,Vss,,,,,Power
